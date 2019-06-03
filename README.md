@@ -1,4 +1,5 @@
 # snips-engine-node-ts
+[![Build Status](https://travis-ci.com/gjdass/snips-engine-node-ts.svg?branch=master)](https://travis-ci.com/gjdass/snips-engine-node-ts)
 
 ## The goal
 
