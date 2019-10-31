@@ -19,7 +19,7 @@
     "@google-cloud/text-to-speech": "^1.0.0",
     "config": "^3.1.0",
     "cross-env": "^5.2.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.13",
     "log4js": "^4.3.1",
     "path": "^0.12.7"
   },
